@@ -10,7 +10,7 @@ A brief description of each assignment is listed below. For more detailed assign
 Assignment 1: Height Fields
 --> This assignment required me to create a height field based on the data from an image which the user specifies at the command line, and to allow the user to manipulate the height field in three dimensions by rotating, translating, or scaling it. It served as an introduction to shader-based OpenGL (core profile).
 
-Assignment 2: Roller Coaster
+Assignment 2: Roller Coaster Simulation
 --> In this assignment, I used Catmull-Rom splines along with OpenGL lighting and texture mapping to create a roller coaster simulation. The simulation runs in a first-person view, allowing the user to "ride" the coaster in an immersive environment.
 
 Assignment 3: Ray Tracing

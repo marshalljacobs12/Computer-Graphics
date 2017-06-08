@@ -3,7 +3,7 @@ Computer Graphics
 
 This repo contains my solutions to the 3 assignments in CSCI 420 Computer Graphics at USC, taught by Professor Jernej Barbic. CSCI 420 covered introductory three-dimensional computer graphics, and assignments were completed using "modern" shader-based OpenGL (core profile). The assignment descriptions were taken from Professor Barbic's course website from the Spring of 2017, and the website is archived here: http://www-bcf.usc.edu/~jbarbic/cs420-s17/
 
-I would like to credit Professor Barbic for an excellent, well-organized course, and Bohan Wang, the TA for the Spring 2017 course, for his constant help in office hours (without which I would have received a substantially lower grade lol).
+I would like to credit Professor Barbic for an excellent, well-organized course, and Bohan Wang, the TA during the spring semester of 2017, for his constant help in office hours (without which I would have received a substantially lower grade lol).
 
 A brief description of each assignment is listed below. For more detailed assignment descriptions, see the assignment descriptions in each project's folder.
 

@@ -1,20 +1,15 @@
 # Height Field
-## Platform: Mac
 
+### Platform: Mac
 
------------------------------------------------------------------------
-Description: 
+### Description: 
 This assignment requires that I create a heightfield based off data from an image the user specifies at the command line. Upon generating the heightfield, the program generates a brief animation demonstrating all the required functionality. The heightfield then can be translated, rotated, and scaled with user input. The user can also toggle between the four different renderings of the heightfield using keyboard input.
 
-
------------------------------------------------------------------------
-Running the Application:
+### Running the Application:
 1. Mac
 	- Navigate to the hw1-starterCode directory in terminal then type the 'make' command. This will generate the executable 'hw1'. To run the program enter type ./hw1 photo_path in Terminal where photo_path is the path to the image you wish to use to render the heightfield.
 
-
-------------------------------------------------------------------------
-Functionality:
+### Functionality:
 	- Upon running the program, a 300 frame animation demonstrating all four renderings of the heightfield as well as rotation, translation, and scaling will occur.
 	- Pressing '1' will change the heightfield to a point rendering.
 	- Pressing '2' will change the heightfield to a wireframe rendering.

@@ -9,10 +9,10 @@
 
 	For example, to run my ray tracer with soft shadows and antialiasing for test2.scene and output the result to test2.jpg, run the following command:
 
-	'''
+	```
 	./hw3 test2.scene test2.jpg y y
-	'''
-
+	```
+	
 ### Mandatory Features
 - Ray tracing triangles
 - Ray tracing sphere

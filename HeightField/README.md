@@ -1,10 +1,7 @@
-HW1 README CSCI 420
+# Height Field
 -----------------------------------------------------------------------
-Name: Marshall Jacobs
+## Platform: Mac
 -----------------------------------------------------------------------
-Platform: Mac
------------------------------------------------------------------------
-
 
 
 -----------------------------------------------------------------------
@@ -27,8 +24,7 @@ Functionality:
 	- Pressing '4' will change the heightfield to a rendering of wireframe on top of triangles. (EXTRA CREDIT)
 	- Dragging with the left mouse button clicked enables rotation about the x and y axes. 
 	- Dragging with the middle mouse button clicked enables rotation about the z axis.
-	- Holding SHIFT while dragging with the left mouse button clicked enables scaling in the x and y directions.
-	- Holding SHIFT while dragging with the middle mouse button clicked enables scaling in the z direction.
-	- Because the CTRL button was not working on my Mac, the above two functionalities can also be achieved by holding 't' instead of CTRL.
+	- Holding 't' while dragging with the left mouse button clicked enables scaling in the x and y directions.
+	- Holding 't' while dragging with the middle mouse button clicked enables scaling in the z direction.
 	- Pressing 'x' will take a screenshot of the contents of the window in which the application is running. 
 	- Pressing 'esc' will quit the application.
